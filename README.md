@@ -26,7 +26,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='twitterp2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img width=250 src='twitterp2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 Time spent: **6** hours spent in total
 
